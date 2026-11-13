@@ -29,7 +29,7 @@ Registered via GoDaddy (created 2019-11-06, expires 2027-11-06). Name servers ar
 
 
 
-![WHOIS](screenshots/1_whois.png)
+![WHOIS](1_whois.png)
 
 
 
@@ -39,7 +39,7 @@ Identified WordPress 7.1.4, WordPress Download Manager 3.3.76, Apache, jQuery 3.
 
 
 
-![WhatWeb](screenshots/2_whatweb.png)
+![WhatWeb](2_whatweb.png)
 
 
 
@@ -49,7 +49,7 @@ The domain resolves to `192.232.216.135`.
 
 
 
-![nslookup](screenshots/3_nslookup.png)
+![nslookup](3_nslookup.png)
 
 
 
@@ -59,7 +59,7 @@ Returned `HTTP/1.1 200 OK` from an Apache server. Headers expose the `/wp-json/`
 
 
 
-![curl](screenshots/4_curl.png)
+![curl](4_curl.png)
 
 
 
@@ -69,7 +69,7 @@ The site is protected by **ModSecurity (SpiderLabs)**, detected in 2 requests.
 
 
 
-![wafw00f](screenshots/5_wafw00f.png)
+![wafw00f](5_wafw00f.png)
 
 
 
@@ -79,7 +79,7 @@ Enumerated SOA, NS, MX, A, SPF/TXT and SRV records. Both name servers disclose *
 
 
 
-![dnsrecon](screenshots/6_dnsrecon.png)
+![dnsrecon](6_dnsrecon.png)
 
 
 
@@ -93,7 +93,7 @@ Scanned 256 IP addresses in 13.90 seconds and found **1 live host: `192.168.56.1
 
 
 
-![Zenmap output](screenshots/7_zenmap_output.png)
+![Zenmap output](7_zenmap_output.png)
 
 
 
@@ -102,14 +102,14 @@ The topology shows `localhost` connected to the discovered host `192.168.56.1`.
 
 
 
-![Zenmap topology](screenshots/8_zenmap_topology.png)
+![Zenmap topology](8_zenmap_topology.png)
 
 
 
 ### 9. Topology view
 
 
-![Zenmap topology view](screenshots/9_zenmap_topology_view.png)
+![Zenmap topology view](9_zenmap_topology_view.png)
 
 
 
