@@ -1,4 +1,4 @@
-# 🔍 Week 2: Footprinting & Network Scanning
+8# 🔍 Week 2: Footprinting & Network Scanning
 ## Author: Ahmed Umar
 **Networkwalks Cybersecurity Program | Batch B08 | Modules W2-PM1 & W2-PM5** 
 
@@ -152,5 +152,5 @@ These are observations, not confirmed vulnerabilities. This work covered informa
 ```
 
 ## 📄 Full Report
-See [`W2-PM-FINAL_-_Networkwalks_Report.docx`](W2-PM-FINAL_-_Networkwalks_Report.docx)
+See [`W2-PM-FINAL_-_Networkwalks_Report.docx`](W2-PM-FINAL_-_Networkwalks_Report(1).docx)
 
